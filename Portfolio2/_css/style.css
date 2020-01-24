@@ -1,0 +1,39 @@
+.carousel-item{
+    max-height:100%;
+}
+#abilities{
+    padding-top:8%;
+}
+h2{
+    padding-bottom:2%;
+}
+.icone{
+    padding-top:3%;
+    width:40%;
+    margin-left:30.4%;
+}
+#aboutme{
+   padding-top:8%; 
+}
+
+#about{
+    padding-top:5%;
+    padding-bottom:25%;
+}
+.card-body{
+    min-height:9rem;
+}
+#social img{
+    width:22%;
+    padding-top:5%;
+   padding-right:4%;
+   margin-left:17%;
+}
+#social img:hover{
+    -webkit-transform: scale(1.2);
+        -ms-transform: scale(1.2);
+        transform: scale(1.2);
+}
+form{
+    margin-top:25%;
+}
